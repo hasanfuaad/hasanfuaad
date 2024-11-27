@@ -1,14 +1,15 @@
 ## Hasan Fuaad 
+I am an IT specialist and Developer with a strong passion for creating innovative and impactful solutions. My experience spans across backend development, integration testing, and content creation. I’m committed to continuous learning, with a particular interest in emerging technologies, especially AI, and how it can revolutionize the tech landscape.
+In my work, I focus on delivering efficient, scalable solutions that make a real difference, whether in testing complex systems or building backend infrastructures. I also enjoy creating and sharing content that helps others grow in their technical journey, believing that knowledge sharing is key to innovation.
+Looking ahead, my goal is to contribute to projects that shape the future of technology while continuously improving my skills and exploring new ways to collaborate and push the boundaries of what’s possible in the digital world.
 
 <!--
 **hasanfuaad/hasanfuaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-<p align="left">Stuff I work with:</p>
+## Stuff I work with:
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -38,26 +39,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
-  
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHRai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadHRai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=AhmadHRai&mode=daily&theme=dracula&order=3" height="150" alt="streak graph"  /> -->
-  <a href="https://streak-stats.demolab.com/?user=AhmadHRai&theme=dracula"><img src="https://streak-stats.demolab.com?user=AhmadHRai&theme=dracula" alt="GitHub Streak" /></a>
-</div>
-
 ###
 
 <picture>
@@ -76,19 +64,9 @@
 </picture>
 
 ###
-
-### Random Quote to Inspire You
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-
-###
-
-<p align="left">Find me on:</p>
-
+## Find me on:
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmadalrai/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:ahmadhalraie@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
-</div>
+  <a href="https://ye.linkedin.com/in/hasan-fuaad-3591a918b?trk=people-guest_people_search-card"_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+<a href="https://www.instagram.com/hasan_fuaad"_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+<a href="https://www.youtube.com/@hasanfuaad"_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></a>
 
-###
